@@ -1,4 +1,9 @@
 ### Hello I'm Rasul, Front End Developer 👋
+  
+  I am Junior Front End Developer, Gamer and Human.
+  I am improving my Developing skills every day and trying to be my best :)
+  I love my Job and I want to be a professional Front End Developer. 
+  Thank You!
 
 **Languages and Tools:**
 
