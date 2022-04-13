@@ -34,6 +34,6 @@
 </p>
 
 **Contact Me:** <br/>
-<a> rslgszd@gmail.com </a>
+<a> rasulagasiyev@gmail.com </a>
 
 
