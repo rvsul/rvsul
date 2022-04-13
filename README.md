@@ -5,7 +5,7 @@
   I love my Job and I want to be a professional Front End Developer. 
   Thank You!
 
-**Languages and Tools:**
+**Languages and Tools I use:**
 
 <p align="center">
 
