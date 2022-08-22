@@ -1,6 +1,6 @@
 ### Yo! I'm Rasul. 💯
   
-  Junior Front End Developer, Gamer and Human.
+  Front End Developer, Gamer and Human.
 
 **Languages and Tools I use:**
 
