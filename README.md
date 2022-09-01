@@ -1,6 +1,6 @@
 ### Yo! I'm Rasul. 💯
   
-Front End DeveloperTechie, Techie, Gamer and Human.
+Front End Developer, Techie, Gamer and Human.
 
 **Languages and Tools I use:**
 
